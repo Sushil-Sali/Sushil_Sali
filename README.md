@@ -59,7 +59,7 @@ A Java + MySQL console application for managing student records and tracking pay
 ### 📫 Connect With Me
 
 - 📧 Email: *sushilsali65@gmail.com*  
-- 💼 LinkedIn: [Sushil Sali](www.linkedin.com/in/sushil-sali-23a939260)  
+- 💼 LinkedIn: [Sushil Sali](sushil-sali-23a939260)  
 <!-- Optional: Add GitHub or portfolio link -->
 
 ---
