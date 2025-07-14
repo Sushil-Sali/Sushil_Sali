@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushil Sali</h1>
-<h3 align="center">🚀 MERN Stack Developer | 💡 Backend Enthusiast | Life time learner | 🇮🇳 Based in India</h3>
+<h3 align="center">🚀 MERN Stack Developer | 💡 Backend Enthusiast | Lifetime Learner | 🇮🇳 Based in India</h3>
 
 <img align="right" alt="coding" width="400" src="https://png.pngtree.com/background/20250128/original/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-picture-image_16247383.jpg" />
 
@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 MCA Student at *R.C. Patel IMRD, Shirpur (NMU)*  
+- 🎓 Recently completed **MCA** from *R. C. Patel IMRD, Shirpur (Dist. Dhule)* under **North Maharashtra University (NMU)** with **First Class Distinction**
 - 🌱 Currently building dynamic full-stack apps using the MERN stack  
-- 🧠 Passionate about crafting scalable backend systems and clean UI with React  
+- 🧠 Passionate about scalable backend systems and clean UI with React  
 - 💬 Open to collaborations on full-stack projects, RESTful APIs, and cloud integrations
 
 ---
@@ -24,7 +24,7 @@
 ✅ Frontend: React.js, HTML, CSS, JavaScript  
 ✅ Backend: Node.js, Express.js, EJS  
 ✅ Databases: MongoDB, MySQL  
-✅ Tools & Practices: Git, GitHub, Visual Studio Code  
+✅ Tools & Practices: Git, GitHub, VS Code  
 ✅ Strengths: Problem Solving, Communication, Team Collaboration
 
 ---
@@ -48,8 +48,14 @@
 
 ### 📚 Projects
 
+**🧠 AI-Powered Code Reviewer**  
+A full-stack application that uses Google Gemini AI to review code snippets and provide intelligent feedback.  
+**Tech Stack**: Node.js, Express.js, React.js, Google Gemini API  
+🔗 [GitHub Repo](https://github.com/Sushil-Sali/AI-Powered-Code-Reviewer)
+
 **🌦 Weather App**  
-A Node.js & Express-based app with EJS templating that fetches real-time weather data from the OpenWeather API and renders it with a responsive UI.
+A Node.js & Express-based app with EJS templating that fetches real-time weather data from the OpenWeather API and renders it with a responsive UI.  
+🔗 [GitHub Repo](https://github.com/Sushil-Sali/Weather-App)
 
 **💰 Fees Management System**  
 A Java + MySQL console application for managing student records and tracking payments efficiently.
@@ -59,8 +65,7 @@ A Java + MySQL console application for managing student records and tracking pay
 ### 📫 Connect With Me
 
 - 📧 Email: *sushilsali65@gmail.com*  
-- 💼 LinkedIn: [Sushil Sali](sushil-sali-23a939260)  
-<!-- Optional: Add GitHub or portfolio link -->
+- 💼 LinkedIn: [Sushil Sali](https://www.linkedin.com/in/sushil-sali-23a939260)  
 
 ---
 
@@ -76,4 +81,4 @@ A Java + MySQL console application for managing student records and tracking pay
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushilsali&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilsali&" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilsali&" alt="GitHub Streak" /></p>
