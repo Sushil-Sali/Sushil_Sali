@@ -21,8 +21,8 @@
 ### 💡 My Skill Set
 
 ✅ Languages: Java, Python, JavaScript  
-✅ Frontend: React.js, HTML, CSS, JavaScript  
-✅ Backend: Node.js, Express.js, EJS  
+✅ Frontend: React.js, HTML, CSS, JavaScript,Ejs 
+✅ Backend: Node.js, Express.js
 ✅ Databases: MongoDB, MySQL  
 ✅ Tools & Practices: Git, GitHub, VS Code  
 ✅ Strengths: Problem Solving, Communication, Team Collaboration
