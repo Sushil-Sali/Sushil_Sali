@@ -18,14 +18,14 @@
 
 ---
 
-💡 My Skill Set
+### 💡 My Skill Set
 
-✅ Languages: Java, Python, JavaScript, HTML, CSS
-✅ Frontend: React.js, HTML, CSS, JavaScript, Bootstrap, EJS
-✅ Backend: Node.js, Express.js
-✅ Databases: MongoDB, MySQL
-✅ Tools & Practices: Git, GitHub, VS Code, RESTful APIs
-✅ Strengths: Problem Solving, Communication, Team Collaboration
+✅ **Languages:** Java, Python, JavaScript  
+✅ **Frontend:** HTML, CSS, React.js, Bootstrap, EJS  
+✅ **Backend:** Node.js, Express.js  
+✅ **Databases:** MongoDB, MySQL  
+✅ **Tools & Practices:** Git, GitHub, VS Code, Postman, Hopscotch, RESTful APIs  
+✅ **Strengths:** Problem Solving, Communication, Team Collaboration
 
 ---
 
@@ -43,35 +43,33 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-📚 Projects
 
-🧠 AI-Powered Code Reviewer
-A full-stack application that uses Google Gemini AI to review code snippets and provide intelligent feedback.
-Tech Stack: Node.js, Express.js, React.js, Google Gemini API
-🔗 GitHub Repo
+### 📚 Projects
 
-🌦 Weather App
-A React.js application using Material-UI that fetches real-time weather data from the OpenWeather API and displays it in a responsive, user-friendly interface.
-🔗 GitHub Repo
+**🧠 AI-Powered Code Reviewer**  
+A full-stack application that uses Google Gemini AI to review code snippets and provide intelligent feedback.  
+**Tech Stack:** Node.js, Express.js, React.js, Google Gemini API  
+🔗 [GitHub Repo](https://github.com/Sushil-Sali/AI-Powered-Code-Reviewer)
 
-🏨 Hostel Listing Hub
+**🌦 Weather App**  
+A React.js application using Material-UI that fetches real-time weather data from the OpenWeather API and displays it in a responsive, user-friendly interface.  
+🔗 [GitHub Repo](https://github.com/Sushil-Sali/Weather-App)
+
+**🏨 Hostel Listing Hub**  
 Developed a full-stack hotel listing platform using HTML, CSS, JavaScript, Bootstrap, EJS, Node.js, and Express.js. Implemented MongoDB for data storage and Passport.js for authentication and authorization. Followed MVC architecture and integrated Joi validation for secure and reliable form handling.
 
-Key Features:
+**Key Features:**  
+- ✅ User sign-up, sign-in, and sign-out  
+- ✅ Hotel CRUD operations (Create, Read, Update, Delete)  
+- ✅ Responsive UI design for seamless user experience  
+- ✅ Validation & security: Joi + Passport authentication/authorization  
+- ✅ Functional features: CRUD operations + responsive UI  
 
-✅ User sign-up, sign-in, and sign-out
+🔗 [GitHub Repo](https://github.com/Sushil-Sali/Hostel-Listing-Hub)
 
-✅ Hotel CRUD operations (Create, Read, Update, Delete)
-
-✅ Responsive UI design for seamless user experience
-
-✅ Validation & security: Joi + Passport authentication/authorization
-
-✅ Functional features: CRUD operations + responsive UI
-
-🔗 GitHub Repo
 ---
 
 ### 📫 Connect With Me
