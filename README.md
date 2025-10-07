@@ -45,21 +45,33 @@
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+📚 Projects
 
-### 📚 Projects
+🧠 AI-Powered Code Reviewer
+A full-stack application that uses Google Gemini AI to review code snippets and provide intelligent feedback.
+Tech Stack: Node.js, Express.js, React.js, Google Gemini API
+🔗 GitHub Repo
 
-**🧠 AI-Powered Code Reviewer**  
-A full-stack application that uses Google Gemini AI to review code snippets and provide intelligent feedback.  
-**Tech Stack**: Node.js, Express.js, React.js, Google Gemini API  
-🔗 [GitHub Repo](https://github.com/Sushil-Sali/AI-Powered-Code-Reviewer)
+🌦 Weather App
+A React.js application using Material-UI that fetches real-time weather data from the OpenWeather API and displays it in a responsive, user-friendly interface.
+🔗 GitHub Repo
 
-**🌦 Weather App**  
-A Node.js & Express-based app with EJS templating that fetches real-time weather data from the OpenWeather API and renders it with a responsive UI.  
-🔗 [GitHub Repo](https://github.com/Sushil-Sali/Weather-App)
+🏨 Hostel Listing Hub
+Developed a full-stack hotel listing platform using HTML, CSS, JavaScript, Bootstrap, EJS, Node.js, and Express.js. Implemented MongoDB for data storage and Passport.js for authentication and authorization. Followed MVC architecture and integrated Joi validation for secure and reliable form handling.
 
-**💰 Fees Management System**  
-A Java + MySQL console application for managing student records and tracking payments efficiently.
+Key Features:
 
+✅ User sign-up, sign-in, and sign-out
+
+✅ Hotel CRUD operations (Create, Read, Update, Delete)
+
+✅ Responsive UI design for seamless user experience
+
+✅ Validation & security: Joi + Passport authentication/authorization
+
+✅ Functional features: CRUD operations + responsive UI
+
+🔗 GitHub Repo
 ---
 
 ### 📫 Connect With Me
